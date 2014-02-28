@@ -40,6 +40,7 @@ namespace ScrapSpace
                 direccionNave.X = (float)Math.Sin(rotacion);
                 direccionNave.Y = -(float)Math.Cos(rotacion);
                 //Velocidad de desplazamiento
+
                 velocidad = velocidad + direccionNave *new Vector2(0.05f,0.05f);
             }
             if (teclado.IsKeyDown(Keys.Left))
