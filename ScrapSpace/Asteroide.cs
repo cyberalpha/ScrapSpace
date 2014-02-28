@@ -33,6 +33,7 @@ namespace ScrapSpace
             this.spriteBatch = new SpriteBatch(graficos.GraphicsDevice); //Instancio spritebacth
         }
         //Métodos
+
         //Método de Cargar
         public void cargarImagen(ContentManager contenido, String nombreImagen)
         {

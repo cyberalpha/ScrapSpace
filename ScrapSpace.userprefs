@@ -1,8 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScrapSpace/Game1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrapSpace/Basura.cs">
     <Files>
-      <File FileName="ScrapSpace/Game1.cs" Line="111" Column="4" />
+      <File FileName="ScrapSpace/Game1.cs" Line="13" Column="2" />
+      <File FileName="ScrapSpace/Adorno.cs" Line="1" Column="1" />
+      <File FileName="ScrapSpace/Asteroide.cs" Line="1" Column="1" />
+      <File FileName="ScrapSpace/Basura.cs" Line="25" Column="32" />
+      <File FileName="ScrapSpace/Fondo.cs" Line="28" Column="18" />
+      <File FileName="ScrapSpace/Program.cs" Line="13" Column="1" />
+      <File FileName="ScrapSpace/Scrapy.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
